@@ -390,6 +390,7 @@ public class ColorPickerView extends View {
                 colorsList.add(new Float[]{(hsvColor[0]) % 360, hsvColor[1], hsvColor[2]});
                 colorsList.add(new Float[]{(hsvColor[0] + 90) % 360, hsvColor[1], hsvColor[2]});
                 colorsList.add(new Float[]{(hsvColor[0] + 270) % 360, hsvColor[1], hsvColor[2]});
+                break;
             case FIVE_TONE:
                 colorsList.add(new Float[]{(hsvColor[0]) % 360, hsvColor[1], hsvColor[2]});
                 colorsList.add(new Float[]{(hsvColor[0] + 60) % 360, hsvColor[1], hsvColor[2]});
