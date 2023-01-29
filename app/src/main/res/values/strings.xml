@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ColorPickerViewExample</string>
+    <string-array name="harmonies">
+        <item>None (Color Picker Mode)</item>
+        <item>Complementary</item>
+        <item>Split Complementary</item>
+        <item>Analogous</item>
+        <item>Analogous Accent</item>
+        <item>Triadic</item>
+        <item>Square</item>
+        <item>Tetradic +</item>
+        <item>Tetradic -</item>
+        <item>Clash</item>
+        <item>Five Tone</item>
+        <item>Six Tone</item>
+    </string-array>
+
+</resources>
